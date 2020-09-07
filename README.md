@@ -8,5 +8,5 @@ Aplikasi Desktop ini menggunakan bahasa C# dengan berbasis .NET Core 3.1 dengan 
 Berikut adalah tampilan dari Aplikasi
 
 ![img](https://github.com/fadhildwia/Aplikasi-pendataan-buku/blob/master/Screenshot/1.JPG)
-![img](https://github.com/fadhildwia/Aplikasi-pendataan-buku/blob/master/Screenshot/2.JPG)
-![img](https://github.com/fadhildwia/Aplikasi-pendataan-buku/blob/master/Screenshot/3.JPG)
+![img](https://github.com/fadhildwia/Aplikasi-pendataan-buku/blob/master/Screenshot/2.PNG)
+![img](https://github.com/fadhildwia/Aplikasi-pendataan-buku/blob/master/Screenshot/3.PNG)
