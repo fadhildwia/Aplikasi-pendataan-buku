@@ -1,0 +1,4 @@
+D:\Kuliah\Portofolio\(S3)Program C#\1. DataBuku\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Kuliah\Portofolio\(S3)Program C#\1. DataBuku\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Kuliah\Portofolio\(S3)Program C#\1. DataBuku\DataBuku\obj\Debug\WindowsFormsApp1.exe
+D:\Kuliah\Portofolio\(S3)Program C#\1. DataBuku\DataBuku\obj\Debug\WindowsFormsApp1.pdb
